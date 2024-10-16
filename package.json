@@ -16,7 +16,7 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.4",
+    "next": "14.2.13",
     "@hookform/resolvers": "^3.9.0",
     "@t3-oss/env-nextjs": "^0.7.1",
     "@vercel/analytics": "^1.1.1",
@@ -26,7 +26,7 @@
     "next-themes": "^0.2.1",
     "react-hook-form": "^7.48.2",
     "tailwind-merge": "^2.1.0",
-    "zod": "^3.22.4"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "typescript": "^5",
@@ -41,7 +41,7 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-tailwindcss": "^3.13.0",
     "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
-    "prettier": "^3.1.0",
+    "prettier": "^3.3.3",
     "husky": "^8.0.3",
     "lint-staged": "^15.2.0"
   }
