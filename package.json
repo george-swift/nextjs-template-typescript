@@ -19,7 +19,7 @@
     "next": "14.2.13",
     "@hookform/resolvers": "^3.9.1",
     "@t3-oss/env-nextjs": "^0.11.1",
-    "@vercel/analytics": "^1.4.0",
+    "@vercel/analytics": "^1.4.1",
     "clsx": "^2.1.1",
     "cva": "npm:class-variance-authority@^0.7.0",
     "next-auth": "^4.24.10",
