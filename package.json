@@ -40,7 +40,7 @@
     "eslint-config-next": "14.2.5",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-tailwindcss": "^3.17.5",
-    "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
+    "@ianvs/prettier-plugin-sort-imports": "^4.4.1",
     "prettier": "^3.3.3",
     "husky": "^9.1.7",
     "lint-staged": "^15.3.0"
