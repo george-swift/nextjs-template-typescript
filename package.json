@@ -35,7 +35,7 @@
     "@trumpet/eslint-config-next": "^1.6.3",
     "@types/node": "^22",
     "@types/react": "^18",
-    "@types/react-dom": "^18",
+    "@types/react-dom": "^19",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.20.1",
     "husky": "^9.1.7",
