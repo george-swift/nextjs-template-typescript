@@ -37,7 +37,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^19",
     "autoprefixer": "^10.4.20",
-    "eslint": "^9.20.1",
+    "eslint": "^9.25.1",
     "husky": "^9.1.7",
     "lint-staged": "^15.5.0",
     "postcss": "^8.5.3",
